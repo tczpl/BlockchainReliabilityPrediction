@@ -6,7 +6,7 @@ Blockchain and blockchain-based decentralized applications are attracting increa
 ## Paper
 The paper is now open on [arXiv.org](https://arxiv.org/abs/1910.14614).
 
-[Zheng, P., Zheng, Z., & Chen, L. (2019). Selecting Reliable Blockchain Peers via Hybrid Blockchain Reliability Prediction. arXiv preprint arXiv:1910.14614.](http://xblock.pro/files/pl/Selecting-Reliable-Blockchain-Peers-via-Hybrid-Blockchain-Reliability-Prediction.pdf.filepart)
+[Zheng, P., Zheng, Z., & Chen, L. (2019). Selecting Reliable Blockchain Peers via Hybrid Blockchain Reliability Prediction. arXiv preprint arXiv:1910.14614.](http://xblock.pro/files/pl/Selecting-Reliable-Blockchain-Peers-via-Hybrid-Blockchain-Reliability-Prediction.pdf)
 
 @article{zheng2019s,
   title={ Selecting Reliable Blockchain Peers via Hybrid Blockchain Reliability Prediction},
