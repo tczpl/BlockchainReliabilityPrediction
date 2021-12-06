@@ -8,7 +8,7 @@ Use following 3 lines for quick running (on Ubuntu 20.04):
 
 `git clone https://github.com/InPlusLab/BlockchainReliabilityPrediction.git`
 
-`pip3 install xgboost pandas xgboost`
+`pip3 install pandas scipy xgboost`
 
 `python3 run.py`
 
