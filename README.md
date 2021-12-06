@@ -5,8 +5,11 @@ Blockchain and blockchain-based decentralized applications are attracting increa
 
 ## Instruction
 Use following 3 lines for quick running (on Ubuntu 20.04):
+
 `git clone https://github.com/InPlusLab/BlockchainReliabilityPrediction.git`
+
 `pip3 install xgboost pandas xgboost`
+
 `python3 run.py`
 
 Then you can check the result from the `result` directory.
