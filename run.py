@@ -39,7 +39,7 @@ def run(MaxBlockBack, MaxRtt):
     startTime = time.perf_counter() # start timing
     logger.info('==============================================')
 
-    logger.info('[UMEAN, IMEAN, UPCC, IPCC, UIPCC, BPDREAM]')
+    logger.info('[UMEAN, IMEAN, UPCC, IPCC, UIPCC, HBRP]')
     logger.info('Load data: %s'%para['dataPath'])
     matrixLoaded = np.loadtxt(para['dataPath']) 
 
