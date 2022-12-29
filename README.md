@@ -22,6 +22,6 @@ As for the source data, plase check the `data_source` directory.
 
 As for the processing codes of the source data, plase check the `data_process` directory.
 
-And then, you can run the `python3 generateMatrix.py` to generate the mentioned matrixes in the paper.
+And then, you can run the `python3 generateMatrix.py` to generate the mentioned matrices in the paper.
 
 
