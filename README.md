@@ -13,3 +13,15 @@ Use following 3 lines for quick running (on Ubuntu 20.04):
 `python3 run.py`
 
 Then you can check the result from the `result` directory.
+
+
+## Source Data
+
+
+As for the source data, plase check the `data_source` directory.
+
+As for the processing codes of the source data, plase check the `data_process` directory.
+
+And then, you can run the `python3 generateMatrix.py` to generate the mentioned matrixes in the paper.
+
+
